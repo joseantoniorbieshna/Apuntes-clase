@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "c221b799eceb81b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b512e8b6a451224f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "719b34fe7467dd58",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "93cb33f21bc3d9f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas clases Jose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c092a016f9776b48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas clases Jose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4679887ab2b816be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas clases Jose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77dc19def5633f02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POO/Apuntes Luis Fernandez.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07de1f4094def8b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc76669e26f9a813",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3fec7eaabcf749f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1760458959f1cec3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f3c40a9a073d10c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1295e2b825579d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "215ee4410fd5b93e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e73b7e24d02e7434",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "POO/Apuntes Luis Fernandez.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c30ebe81e5fed6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "POO/Apuntes Luis Fernandez.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c44241d0bc0a1fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "826b855023b1880e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "POO/Apuntes Luis Fernandez.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "77dc19def5633f02",
+  "lastOpenFiles": [
+    "Notas clases Jose.md",
+    "POO/Apuntes Luis Fernandez.md",
+    "Luis Fernandez ep 1",
+    "POO",
+    "Notas clases Nieves.md",
+    "Notas clases Adelaida.md",
+    "Nota clases Nieves"
+  ]
+}
