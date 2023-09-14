@@ -1,0 +1,1 @@
+Hacer resumen muy por encima casi como un esquema
