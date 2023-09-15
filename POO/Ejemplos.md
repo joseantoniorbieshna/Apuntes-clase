@@ -13,3 +13,14 @@
 
 >Ejemplo:
 >Un DVD modular antiguo. Podría tener un mixer, un DVD, etc. Y si uno de ellos no se enchufaba, seguía funcionando.
+
+# Jerarquización
+> Puedes pertenecer a varias jerarquías. Por ejemplo pertenecer a Persona y pertenecer a Profesor, a esto se le llama herencia múltiple.
+# LEY DE COMPLEJIDAD CRECIENTE
+
+^bdf637
+
+> Si te dan un diseño, pero dé repente te dicen que ha cambiado algo, puedes hacer un "if" y puedes seguir para delante, pero al hacer esto, si siguen añadiendo más cosas, y metes más "if", terminaría siendo como poner parches sobre parches...
+> 
+> Lo mejor sería re-estructurar el diseño de la aplicación, dedicándole un esfuerzo activo.
+
