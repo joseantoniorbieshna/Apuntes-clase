@@ -17,8 +17,26 @@ Grasp
 ## COHESION
 mide el grado de conectividad entre los elementos de un solo módulo.
 
-**Funcional:** Se encarga de realizar solo una acción
+**Funcional:** Se encarga de realizar solo una acción(Función)
 
 **Secuencial:** Por ejemplo A hace algo y B utiliza a A
 
-**Conmutacional o de datos:** A y B utilizan los mismos datos por lo tanto si se utiliza A modificaría el resultado de B y viceversa.
+**Comunicacional o de datos:** A y B utilizan los mismos datos por lo tanto si se utiliza A modificaría el resultado de B y viceversa.
+
+
+**Temporal:** Tienen que ser ejecutadas al mismo tiempo
+**Procedimental:** Cuándo no existe relación entre los módulos del bloque más que la de ejecutarse en un orden concreto.
+Ejemplo: En una cocina, hacer cierto procedimiento en orden.
+**Lógica:** Cuando varios elementos están juntos porque realizan funciones de la misma naturaleza.
+**Coincidental:** No existe ningún tipo de relación, ni excusa para que los módulos estén juntos.
+# Clase Acceso a Datos
+Hay diferentes tipos de if
+
+SI en una lambda quiero hacer referencia a un metodo existente, ya sea estatico o no,
+se utiliza **::**
+
+Ejemplo: Float::valueOf;
+
+
+
+
