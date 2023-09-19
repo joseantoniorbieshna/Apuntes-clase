@@ -175,7 +175,6 @@ new Float\[5\]\;
 ![[Pasted image 20230918180230.png]]
 
 
-hora 2:08
 Pequeña mención a clases vista:
 - **String:** Son cadenas de texto constantes
 - **StringBuffer:** Son cadenas de textos dinámicas.
