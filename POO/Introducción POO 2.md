@@ -18,7 +18,7 @@ final, if, while...
 Es importante elegir bien que tipo primitivo usar, porque no todos ocupan el mismo espacio en memoria.
 
 #### Declaración de variables
-**Variables:** son reservas de memoria estática que pude almacenar en cada instante uno de los valores de un cierto tipo primitivo.
+**Variables:** son reservas de memoria estática que puede almacenar en cada instante uno de los valores de un cierto tipo primitivo.
 
 Se declaran:
 \<Tipo> \<Nombre Variable> ;
@@ -86,8 +86,6 @@ Los vectores son dinámicos, al crear el vector, reservo una zona de memoria,  c
 (Podrías meterle un random al tamaño y solo lo conocerías en tiempo de ejecución)
 Es dinámico en la creación, pero estático en su vida.
 
-
-
 sintaxis:
 new \<tipo\> \[Numero de elementos\]
 o
@@ -100,8 +98,8 @@ Aquí le das ya valor dentro del array, además de un tamaño.
 ![[Pasted image 20230917101006.png]]
 
 Véase también:
-**Dirección:** Es una dirección de memoria.
 **puntero:** Es una variable que está en memoria y que alberga una dirección.
+**Dirección:** Es una dirección de memoria.
 
 
 Ejemplo en java:
@@ -159,7 +157,25 @@ Quien realmente destruye es el recolector de basura de java (garbage collector) 
 
 **Creación de objetos:** new es un operador unario prefijo cuyo operando es una clase de objetos y devuelve la dirección de memoria donde se ha reservado el espacio para dicho objeto.
 
-hora 2:08
+**Referencia a un objeto:** Es una variable puntero que alberga la dirección de un objeto de una clase.
+Puedo hacer las siguientes cosas:
+- Referencia = dirección (Asignación a la referencia)
+- Dirección1 == Dirección2 (Comprobar si las referencias son iguales)
+- Dirección1 != Dirección2 (Comprobar si las referencias son distintas)
 
-**String:** Son cadenas de texto constantes
-**StringBuffer:** Son cadenas de textos dinámicas.
+Nota importante: SI utilizas final al guardar la referencia del objeto, la dirección del objeto no puede cambiar, pero el estado de este si.
+
+
+**Creación de vectores:** new es un operador unario prefijo cuyo operando es un vector de referencias a objetos de una clase y devuelve la dirección de memoria donde se ha reservado el espacio para dicho vector.
+
+Dicho de otra forma, es una dirección a un array, el cual tiene direcciones de objetos.
+
+Cuando lo inicializas, no estás inicializando ningún objeto dentro del array.
+new Float\[5\]\;
+![[Pasted image 20230918180230.png]]
+
+
+hora 2:08
+Pequeña mención a clases vista:
+- **String:** Son cadenas de texto constantes
+- **StringBuffer:** Son cadenas de textos dinámicas.
