@@ -15,7 +15,7 @@ Grasp
 >
 >**El principio Creador:** (habla de la Factoria)
 >
->A y b se conecta, pero no quieres que se conecten, entonces haces una clase en el medio para esa comunicación.(Ejemplo 2 personas de distinto idioma, en el medio hay un traductor)
+>**Principio de Indirección:** A y b se conecta, pero no quieres que se conecten, entonces haces una clase en el medio para esa comunicación.(Ejemplo 2 personas de distinto idioma, en el medio hay un traductor)
 >
 >**Polimorfismo:** Múltiples formas. (downCasting y upCasting)(dijo de que hablaria más adelante de los ValueObject)
 >Livskot o/c: 
