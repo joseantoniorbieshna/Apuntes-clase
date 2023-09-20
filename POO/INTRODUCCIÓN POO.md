@@ -71,7 +71,7 @@ Un objeto es el agente activo, que es el que lanza el mensaje y otro sujeto es e
 
 **Método:** definición de una operación de una clase.
 **Parámetro:** argumento que recibe un método.
-**Atributo:** Cada uno de los datos de una clase.
+**Atributo:** Cada uno de los datos de una clase.(no hay diferencia entre propiedad y atributo)
 **Estado:** Conjunto de los valores de los atributo en un instante dado.
 
 # Elementos de la programación orientada a objetos

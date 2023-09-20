@@ -9,7 +9,19 @@ Grasp
 >
 >explicar más detallado
 >
->Invención pura: Es cuando creas una clase, que no es totalmente necesaria, para mejorar el acoplamiento y la cohesión.
+>**Invención pura:** Es cuando creas una clase, que no es totalmente necesaria, para mejorar el acoplamiento y la cohesión.
+>
+>**Principio del controlador:** Separación del código que controla las clases, en vez de meterlo en la clase, hace una llamada al controlador, para que si cambia unas de las clases, no necesiten cambiar las demás, si no que solo el controlador.
+>
+>**El principio Creador:** (habla de la Factoria)
+>
+>A y b se conecta, pero no quieres que se conecten, entonces haces una clase en el medio para esa comunicación.(Ejemplo 2 personas de distinto idioma, en el medio hay un traductor)
+>
+>**Polimorfismo:** Múltiples formas. (downCasting y upCasting)(dijo de que hablaria más adelante de los ValueObject)
+>Livskot o/c: 
+
+
+NOTA: Quien hace el objeto es el que tiene información.
 
 ### Granularidad
 > Granularidad como de pequeño se puede hacer algo
@@ -55,4 +67,13 @@ Ejemplo: Float::valueOf;
 
 
 
+### AÑO PASADO REPASO
+NOTAS: VERSATILIDAD, PRIVACIDAD Y TEMPORALIDAD
+**Dependencias:**
+- uso
+- asociación
+- agregación
+- composición
+- implementación
+- Herencia
 
