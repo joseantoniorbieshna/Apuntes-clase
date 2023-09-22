@@ -52,43 +52,19 @@
             }
           },
           {
-            "id": "77dc19def5633f02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas clases Jose.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0c17ea960e1eb76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POO/INTRODUCCIÓN POO 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7e01fad49c9499a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas clases Jose.md",
+                "file": "POO/Bibliografía.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas clases Jose.md",
+                "file": "POO/Bibliografía.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas clases Jose.md",
+                "file": "POO/Bibliografía.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas clases Jose.md"
+                "file": "POO/Bibliografía.md"
               }
             }
           }
@@ -215,12 +191,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d3fec7eaabcf749f",
+  "active": "7e01fad49c9499a7",
   "lastOpenFiles": [
-    "POO/INTRODUCCIÓN POO 3.md",
-    "POO/INTRODUCCIÓN POO 2.md",
-    "Notas clases Jose.md",
+    "POO/INTRODUCCION POO 4.md",
     "POO/INTRODUCCIÓN POO.md",
+    "POO/INTRODUCCIÓN POO 3.md",
+    "Notas clases Jose.md",
+    "POO/INTRODUCCIÓN POO 2.md",
     "Nota clases Maria Eugenia.md",
     "Notas clases Adelaida.md",
     "Notas clases Nieves.md",
