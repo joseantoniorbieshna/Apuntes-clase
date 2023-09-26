@@ -1,3 +1,4 @@
+# PROGRAMACIÓN DE SERVICIOS
 >Propiedades privados tienen getter y setter
 >Atributos públicos
 
@@ -54,7 +55,10 @@ Ejemplo: En una cocina, hacer cierto procedimiento en orden.
 Nota: cuando necesitas los datos, no te queda de otra que estar acoplado con estampado. Cambia sin embargo, si estas acoplado por funciones.
 
 
-
+**Cola** LinkedList,
+**Conjunto** hashet y treeset(no puede haber un elemento repetido).
+**Maps** cada elemento está asociado a un indice.
+**Pila** el último que entra es el primero que sale.
 
 
 # Clase Acceso a Datos
@@ -77,3 +81,58 @@ NOTAS: VERSATILIDAD, PRIVACIDAD Y TEMPORALIDAD
 - implementación
 - Herencia
 
+POJO: plain old java object, lo llaman objeto tonto, sirve para transladar de una base de datos a java
+
+### CODIGO LIMPIO
+NO TENGAS CÓDIGO MUERTO
+YAGNI: YOU AREN´T GOINT TO NEED IT
+DRY: DON´T REPEAT YOURSELF
+KISS: KEEP IT SIMPLE, STUPID
+
+**Bibliotecas:** conjuntos de clases e interfaces que permiten las solución de una categoría de problemas.
+
+Menos compromiso: Se debe de poner solo lo esencial.
+Menor sorpresa: No puede hacer dos cosas un método.
+Cohesión de métodos: 
+
+**NO** obsesionarse con los **tipos primitivos**.
+
+El **número de parámetros** ideal es 0,1 o 2.
+
+**COMPLEJIDAD CICLOMATICA** (RECORDARSELO A JOSE)
+Mide la complejidad de un algoritmo 
+
+**No** se deben tener **métodos largos**, debe tener entre 10-15 como general, pero puede tener un poco más o menos, 80-120 caracteres.
+
+
+**ENVIDIA DE CARACTERÏSTICAS**
+Esto ocurre cuando un método que necesita de muchas propiedades o métodos que se encuentran en otro objeto.
+Esto quiere decir que igual no debería de estar ahí
+
+**DISEÑO POR CONTRATO**
+
+
+**ERRORES**
+Excepcionales: Cuando no depende de ti, por ejemplo una base de datos.
+Lógicos: EL programador es el que tiene el error.
+
+
+**NO A LAS CLASES GRANDES**
+3-5 atributos
+20 métodos
+
+**HERENCIA RECHAZADA**
+Cuando la clase derivada no utiliza métodos de la clase padre.
+
+**INTIMIDAD INAPROPIADA**
+Ya hemos hablado, cuando hay más de dos puntos, nos estamos equivocando.
+
+### SOLID
+Propuesto por Tío Bob.
+Es importante entender el problema, para entender estas soluciones.
+
+Principio: Idea fundamental de algo.
+
+Son los siguientes principios:
+**SINGLE RESPONSABILITY:** principio de responsabilidad única
+**OPEN/CLOSED:** un software que funciona, está cerrado a modificación y abierto para su extensión
