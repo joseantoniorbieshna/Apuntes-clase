@@ -32,7 +32,7 @@ Cada una de las clases en la jerarquía de clasificación, solo tiene que escrib
 - dificultad para establecer una clasificación "perfecta"
 - Esqueleto fundamental de un programa junto con la jerarquía de composición
 
-Reglas de construcción:
+**Reglas de construcción:**
 - Regla de Generalización / Especialización: cuando existen unas características específicas de un subconjunto de elementos dentro un determinado conjunto más amplio, que pese a que mantienen las características esencial e identificativa del conjunto al que pertenecen, también son lo suficientemente relevantes como para ser rasgos distintivos de dicho subconjunto de elementos.
 - Regla ¿Es un?(ISA en ingles): responder afirmativamente que un objeto de la clase hija es un objeto de la clase padre.
 	Ejemplo: Un cerdo es un animal.
@@ -47,7 +47,7 @@ Class ClaseDerivada extends ClaseBase{
 ![[Pasted image 20230923203629.png]]
 El padre tiene todos los métodos y atributos que tiene la clase Abuela, y a su vez, la clase hija, tiene todos los métodos y atributos del padre y a su vez lo de la abuela.
 
-Especialización por adición de atributos y/o métodos:
+**Especialización por adición de atributos y/o métodos:**
 - Los atributos en la clase hija tiene las mismas reglas sintácticas y semánticas que una clase que no sea derivada
 - los métodos añadidos de una clase hija tienen las mismas reglas semánticas que una clase que no sea derivada excepto que **no tienen accesos a los atributos y métodos privados transmitidos por el padre.**
 Si dejaras público los atributos en la clase padre, y las clase hija, usa dichos atributos. En el momento que cambies los atributos por necesidad, habría una oleada de mantenimiento en las clases hijas también. Por eso es recomendable quedarlos privado.
@@ -71,7 +71,7 @@ En el libro de C++ de Stroustrup, dice que aunque el lenguaje permita más, debe
 - **métodos:** públicos, protected o privado.
 
 
-En caso de que hubiera puesto atributos protected, es decir dentro de los métodos de la clase derivada, tiene acceso a los atributos transmitidos, a los atributos añadidos, a los parámetros del método y a las declaraciones locales(Ley flexible de demeter)
+En caso de que hubiera puesto **atributos protected**, es decir dentro de los métodos de la clase derivada, tiene acceso a los atributos transmitidos, a los atributos añadidos, a los parámetros del método y a las declaraciones locales **(Ley flexible de demeter)**
 
 **IMPLICACION:** desbordamiento dado que si se modifica la implantación de la clase padre **SI repercute sobre la implantación de la clase hija** y se obtiene su máximo acoplamiento entre ambas clases.
 
@@ -91,7 +91,7 @@ Clases Abstractas: Son clases NO instanciadles que surgen del factor común del 
 Síntesis: abstract class /<ClaseAbstracta/>
 
 
-En cambio las clases concretas: Surgen de la descripción de los atributos y métodos que definen el comportamiento de un cierto conjunto de objetos homogéneos.
+**En cambio las clases concretas:** Surgen de la descripción de los atributos y métodos que definen el comportamiento de un cierto conjunto de objetos homogéneos.
 ### UTILIZACION DE CENTINELA EN CENTINELA
 Es una optimización para buscar elementos en una lista. 
 Añade un elemento al final de una lista. En vez de comprobar que no se salga de la lista, le dices que siga iterándola mientras no sea ese elemento que buscas(ya que mínimo está en la última posición). Al finalizar el bucle, compruebas si el encontrado es diferente al **puntero** de la última posición, si te da que es el mismo, pues no lo ha encontrado, ya que llegó al final de la lista. Importante quitar dicho elemento del final de la lista cuando termines.
