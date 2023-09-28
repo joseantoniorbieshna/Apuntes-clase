@@ -32,5 +32,10 @@ cuando se lanza un mensaje a un objeto a través de una **referencia polimórfic
 
 Ejemplo: si a una referencia tipo animal, le digo que apunte a un periquito podría solo lanzar mensajes a los objetos de la clase animal, pero no de la clase periquito.
 
-**Formación**
+**Formación del polimorfismo**
+**Enlace:** es la asociación entre un elemento de un lenguaje de programación y una de sus características.
+Hay 2 tipos:
+- **Enlace estático:** Es aquel que puedo resolver analizando el código, es decir en tiempo de compilación.
+- **Enlace dinámico:** aquel que no se puede resolver analizando el código sino que se resuelve en tiempo de ejecución.
 
+2:24:15
