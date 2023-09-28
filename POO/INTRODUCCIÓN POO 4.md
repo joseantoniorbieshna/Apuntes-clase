@@ -34,14 +34,14 @@ Además cohesivamente, la programación tradicional, sería imposible entenderla
 
 
 #### PROGRAMA ORIENTADO A OBJETO
-Un programa orientado a objeto, es un único objeto, que recibe un único mensaje, que produce un desencadenamiento de objetos y mensajes. No recibe ni devuelve nada.
+**Un programa orientado a objeto**, es un único objeto, que **recibe un único mensaje**, que produce un desencadenamiento de objetos y mensajes. No recibe ni devuelve nada.
 
 
 Dado el mismo conjunto de requisitos, más módulos significa menor tamaño individual del módulo. Sin embargo, a medida que crece el número de módulos, el esfuerzo asociado con la integración de módulos también crece. Esta características llevan a una curva del coste total. Hay un número, M, de módulos que resultaría en un coste de desarrollo mínimo pero no tenemos la sofisticación necesaria para predecir M con seguridad
 \[Pressman,93\]
 ![[Pasted image 20230921222403.png]]
 
-Si intento integrar todo en un modulo, ves que los costes de módulo tiene ese módulo es tiende hacia infinito. En cambio, si separo demasiado, es decir en muchos módulos, vemos que el coste de integración tiende a infinito.
+Si intento integrar todo en un modulo, ves que los costes de módulo, que tiene ese módulo tiende hacia infinito. En cambio, si separo demasiado, es decir en muchos módulos, vemos que el coste de integración tiende a infinito.
 
 La linea discontinua sería la suma de los dos costes en ese punto, como vemos, lo mejor es un punto medio.
 (Supuestamente no es muy bueno Pressman, pero esta cita es muy acertada)
