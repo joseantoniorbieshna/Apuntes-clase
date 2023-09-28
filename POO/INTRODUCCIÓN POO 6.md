@@ -30,7 +30,7 @@ Es muy útil ya que reutilizas el código.
 **Limitaciones:** 
 cuando se lanza un mensaje a un objeto a través de una **referencia polimórfica,** éste **debe estar contemplado en la interfaz de de la clase** de la que se declaró la referencia sin contemplar los posibles métodos añadidos el a clase de objetos apuntados.
 
-Ejemplo: si a una referencia tipo animal, le digo que apunte a un periquito podría solo lanzar mensajes a los objetos de la clase animal, pero no de la clase periquito.
+Ejemplo: si a una **referencia tipo animal**, le digo que **apunte a una instancia de periquito** podría **solo lanzar mensajes a los objetos de la clase animal**, pero no de la clase periquito.
 
 **Formación del polimorfismo**
 **Enlace:** es la asociación entre un elemento de un lenguaje de programación y una de sus características.
@@ -38,4 +38,16 @@ Hay 2 tipos:
 - **Enlace estático:** Es aquel que puedo resolver analizando el código, es decir en tiempo de compilación.
 - **Enlace dinámico:** aquel que no se puede resolver analizando el código sino que se resuelve en tiempo de ejecución.
 
-2:24:15
+**ENTONCES EL POLIMORFISMO ES:** Un enlace dinámico entre una referencia y la clase de objeto apuntado por la referencia.
+
+Utilizar el instanceOf con estructuras de control de flujo "case" o "if-then-else encadenados", **destruye** toda la modularidad de un programa y anula los objetivos de la programación orientada a objetos. También es propensa a errores.(Es una chapuza)
+
+Un claro ejemplo, sería, ante una nueva implementación, deberías ir a revisar todo el código para encontrar el instance of y añadir la implementación
+
+**BENEFICIO DEL POLIMORFISMO LA ABSTRACCIÓN**
+Puedo a trabajar de un montón de clases diferentes, abstrayéndome de la clase de objeto particular que eres.
+
+Ejemplo: a tu madre, no le importas como meen sus hijos, le da igual si son hombre o mujer. Ella solo te manda a mear. Es decir recorre lista niños y les manda a mear, dándole igual si es hombre o mujer.
+
+
+**La jerarquía de composición:** El tablero "tiene" mazos, el mazo "tiene un" menú que está ligado al tablero.
