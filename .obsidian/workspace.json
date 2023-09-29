@@ -70,13 +70,25 @@
               "type": "markdown",
               "state": {
                 "file": "Notas clases José.md",
-                "mode": "source",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61542df877ab5c64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "POO/INTRODUCCIÓN POO 6.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas clases José.md",
+                "file": "POO/INTRODUCCIÓN POO 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas clases José.md",
+                "file": "POO/INTRODUCCIÓN POO 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas clases José.md"
+                "file": "POO/INTRODUCCIÓN POO 6.md"
               }
             }
           }
@@ -205,28 +217,29 @@
   },
   "active": "d3fec7eaabcf749f",
   "lastOpenFiles": [
-    "POO/ANEXO/Pasted image 20230917101006.png",
     "Notas clases José.md",
+    "Notas clases Adelaida.md",
+    "POO/INTRODUCCIÓN POO 6.md",
+    "POO/ANEXO/Pasted image 20230928095853.png",
+    "POO/ANEXO/Pasted image 20230928095919.png",
+    "POO/ANEXO/Pasted image 20230928095239.png",
     "POO/INTRODUCCIÓN POO 5.md",
     "POO/INTRODUCCIÓN POO 3.md",
+    "POO/ANEXO/Pasted image 20230927215653.png",
     "POO/INTRODUCCIÓN POO 4.md",
+    "POO/INTRODUCCIÓN POO.md",
+    "POO/INTRODUCCIÓN POO 2.md",
+    "POO/ANEXO/Pasted image 20230917101006.png",
     "POO/ANEXO/Pasted image 20230923203629.png",
     "POO/INTRODUCCION POO 4.md",
-    "POO/INTRODUCCIÓN POO 2.md",
     "Notas clases Nieves.md",
     "POO/ANEXO/Pasted image 20230921225032.png",
     "POO/ANEXO/Pasted image 20230921222403.png",
     "POO/ANEXO/Pasted image 20230921215814.png",
-    "POO/INTRODUCCIÓN POO.md",
     "Nota clases Maria Eugenia.md",
-    "Notas clases Adelaida.md",
     "POO/ANEXO/Pasted image 20230918180230.png",
     "POO/Bibliografía.md",
-    "POO/ANEXO/Pasted image 20230915144443.png",
     "POO/Apuntes Luis Fernandez.md",
-    "POO/ANEXO/Pasted image 20230914145352.png",
-    "POO/ANEXO/Pasted image 20230914140313.png",
-    "POO/ANEXO/Pasted image 20230914140444.png",
     "POO/Ejemplos.md",
     "Pasted image 20230914140148.png.md",
     "POO/ANEXO",

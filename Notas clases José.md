@@ -2,8 +2,8 @@
 >Propiedades privados tienen getter y setter
 >Atributos públicos
 
-Grasp
->Experto en información:
+# GRASP
+>**Experto en información:**
 >alumno.expediente.algo.tal está mal no es aconsejable
 >
 >No sigue este principio debería de preguntar a alguien que se encarga de esto.
@@ -22,7 +22,11 @@ Grasp
 >Livskot o/c: 
 
 
-NOTA: Quien hace el objeto es el que tiene información.
+NOTAS: 
+- Quien hace el objeto es el que tiene información.
+- El object mother sería como coger datos de una base de datos.
+- El controlador, no sabe hacer nada, pero conoce a todo el mundo que sabe hacer cosas
+
 
 ### Granularidad
 > Granularidad como de pequeño se puede hacer algo
