@@ -24,7 +24,7 @@ Es muy útil ya que reutilizas el código.
 
 **Ejemplo:** No se contempla que un periquito se convierta en un cuervo, ni que un periquito sea un periquito y un cuervo a la vez. Lo único que se contempla es que una referencia a Animal apunte a un periquito o un cuervo.
 
-**Comportamiento:** Cuando se lanza un mensaje a un objeto a través de una referencia polimórfica, se ejecuta el método prescrito en la clase dl objeto que recibe el mensaje.
+**Comportamiento:** Cuando se lanza un mensaje a un objeto a través de una referencia polimórfica, se ejecuta el método prescrito en la clase del objeto que recibe el mensaje.
 ![[Pasted image 20230928095239.png]]
 
 **Limitaciones:** 
