@@ -16,10 +16,10 @@ La herencia favorece, la Integridad de la arquitectura del software y favorece l
 Es muy útil ya que reutilizas el código.
  ![[Pasted image 20230927215653.png]]
 #### POLIMORFISMO (Muchas formas)
-**Polimorfismo:** Es una simple relajación del sistema de tipos, donde cualquier referencia que declares, puede ser de esa clase de la que ha sido declarada, o de cualquier de sus derivadas.
+**Polimorfismo:** Es una simple relajación del sistema de tipos, donde cualquier referencia que declares, puede ser de esa clase de la que ha sido declarada, o de cualquiera de sus derivadas.
 
 **Tipos de lenguaje de programación:**
-- **universo cerrado:** Si un clase hereda de x clases, solo podrá utilizar las cosas de esas clases.
+- **universo cerrado:** Si una clase hereda de x clases, solo podrá utilizar las cosas de esas clases.
 - **universo abierto:** Podrías llamar a cualquier función pero te crashearía en tiempo de ejecución.
 
 **Ejemplo:** No se contempla que un periquito se convierta en un cuervo, ni que un periquito sea un periquito y un cuervo a la vez. Lo único que se contempla es que una referencia a Animal apunte a un periquito o un cuervo.

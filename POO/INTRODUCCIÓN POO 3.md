@@ -1,4 +1,4 @@
-# VISTA PRIVADA
+# VISTA PRIVADA CLASE
 **Definir atributos:** Se trata de crear objetos de otras clase en las que me apoyo.
 - Si el atributo es constante, lo inicializas en la declaración, o puede postergarse la inicialización al constructor.
 **Definición de métodos:** es lanzar mensajes a esos objetos en los que me apoyo.

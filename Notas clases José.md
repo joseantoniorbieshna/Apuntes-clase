@@ -140,3 +140,8 @@ Principio: Idea fundamental de algo.
 Son los siguientes principios:
 **SINGLE RESPONSABILITY:** principio de responsabilidad única
 **OPEN/CLOSED:** un software que funciona, está cerrado a modificación y abierto para su extensión
+**INTERFACE SEGREGATION: **
+- Es mejor tener 5 interfaces de 1 método, que 1 interfaz grande.
+**INVERSIÓN DE DEPENDENCIA:** Una clase no debería de depender de una implementación, si no de una abstracción.
+- Las de nivel más bajo, son las que no dependen de ninguna otra.
+**INYECCIÓN DE DEPENDENCIA:** Desde fuera le digo que implementación sobre esa clase abstracta voy a tener, pero desde dentro, le da igual que haya.
