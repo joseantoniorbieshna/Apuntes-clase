@@ -142,6 +142,18 @@ Son los siguientes principios:
 **OPEN/CLOSED:** un software que funciona, está cerrado a modificación y abierto para su extensión
 **INTERFACE SEGREGATION: **
 - Es mejor tener 5 interfaces de 1 método, que 1 interfaz grande.
+
+NOTA: CUANDO DIGO INVERSIÓN, es que es otro el que lo hace
 **INVERSIÓN DE DEPENDENCIA:** Una clase no debería de depender de una implementación, si no de una abstracción.
+(Inversión de dependencia, yo ya no dependo, le doy la vuelta a la dependencia.)
 - Las de nivel más bajo, son las que no dependen de ninguna otra.
 **INYECCIÓN DE DEPENDENCIA:** Desde fuera le digo que implementación sobre esa clase abstracta voy a tener, pero desde dentro, le da igual que haya.
+	**Características:**
+	- Al usar la inyección, varios objetos B, pueden utilizar 1 mismo objeto A(comparten el objeto)
+
+**INVERSIÓN DE CONTROL:** Es el propio programa el que controla como se ejecuta. No eres un main, con un montón de cosas que tiene que hacer.
+Ejemplo:
+	Interface Hook{
+		public void onCreate();
+		public void onClose();
+	}
