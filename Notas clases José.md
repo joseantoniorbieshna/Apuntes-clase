@@ -161,7 +161,7 @@ Ejemplo:
 ##### clase i/o
 Las writer y reader son de char
 las de byte son input y output
-
+ 
 Buffered, diferentes velocidades(adecuarse a las velocidades, parece que utiliza thread, ya que no se bloquea el programa) 
 
 Ruta canónica: es cuando es absoluta, pero con puntos por el medio, modificando donde estás, yendo hacia delante o atrás.

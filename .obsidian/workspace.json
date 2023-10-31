@@ -4,103 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b512e8b6a451224f",
+        "id": "2ae9c974fc8d1d57",
         "type": "tabs",
         "children": [
           {
-            "id": "719b34fe7467dd58",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "93cb33f21bc3d9f5",
+            "id": "b68cdeaea1ee21a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas clases José.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c092a016f9776b48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas clases José.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4679887ab2b816be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas clases José.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77dc19def5633f02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas clases José.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0c17ea960e1eb76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas clases José.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61542df877ab5c64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas clases José.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d94eb5d82f7a38da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas clases José.md",
+                "file": "POO/Bibliografía.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas clases José.md",
+                "file": "POO/Bibliografía.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas clases José.md",
+                "file": "POO/Bibliografía.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas clases José.md"
+                "file": "POO/Bibliografía.md"
               }
             }
           }
@@ -227,16 +146,23 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d94eb5d82f7a38da",
+  "active": "b68cdeaea1ee21a7",
   "lastOpenFiles": [
+    "Sin título.md",
+    "Diseño/Clase 1.md",
+    "Notas clases Adelaida.md",
+    "Nota clases Maria Eugenia.md",
+    "DOT NET/INTRODUCCIÓN.md",
+    "DOT NET",
     "Notas clases José.md",
+    "Sin título 1",
+    "Diseño",
     "POO/INTRODUCCIÓN POO 5.md",
     "POO/INTRODUCCIÓN POO 3.md",
     "POO/INTRODUCCIÓN POO.md",
     "POO/INTRODUCCIÓN POO 2.md",
     "POO/INTRODUCCIÓN POO 6.md",
     "POO/INTRODUCCIÓN POO 4.md",
-    "Notas clases Adelaida.md",
     "POO/ANEXO/Pasted image 20230928095853.png",
     "POO/ANEXO/Pasted image 20230928095919.png",
     "POO/ANEXO/Pasted image 20230928095239.png",
@@ -248,7 +174,6 @@
     "POO/ANEXO/Pasted image 20230921225032.png",
     "POO/ANEXO/Pasted image 20230921222403.png",
     "POO/ANEXO/Pasted image 20230921215814.png",
-    "Nota clases Maria Eugenia.md",
     "POO/ANEXO/Pasted image 20230918180230.png",
     "POO/Bibliografía.md",
     "POO/Apuntes Luis Fernandez.md",
@@ -256,7 +181,6 @@
     "Pasted image 20230914140148.png.md",
     "POO/ANEXO",
     "Nota clases Maria eugenia",
-    "Sin título",
     "Luis Fernandez ep 1",
     "POO",
     "Nota clases Nieves"
