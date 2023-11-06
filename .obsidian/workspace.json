@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas clases José.md",
+                "file": "POO/Bibliografía.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas clases José.md",
+                "file": "POO/Bibliografía.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas clases José.md"
+                "file": "POO/Bibliografía.md"
               }
             }
           }
@@ -150,15 +150,22 @@
   "active": "1760458959f1cec3",
   "lastOpenFiles": [
     "Diseño de software/Clase 1.md",
-    "Notas clases José.md",
     "Diseño de software",
+    "Sin título.md",
+    "Diseño/Clase 1.md",
+    "Notas clases Adelaida.md",
+    "Nota clases Maria Eugenia.md",
+    "DOT NET/INTRODUCCIÓN.md",
+    "DOT NET",
+    "Notas clases José.md",
+    "Sin título 1",
+    "Diseño",
     "POO/INTRODUCCIÓN POO 5.md",
     "POO/INTRODUCCIÓN POO 3.md",
     "POO/INTRODUCCIÓN POO.md",
     "POO/INTRODUCCIÓN POO 2.md",
     "POO/INTRODUCCIÓN POO 6.md",
     "POO/INTRODUCCIÓN POO 4.md",
-    "Notas clases Adelaida.md",
     "POO/ANEXO/Pasted image 20230928095853.png",
     "POO/ANEXO/Pasted image 20230928095919.png",
     "POO/ANEXO/Pasted image 20230928095239.png",
@@ -170,7 +177,6 @@
     "POO/ANEXO/Pasted image 20230921225032.png",
     "POO/ANEXO/Pasted image 20230921222403.png",
     "POO/ANEXO/Pasted image 20230921215814.png",
-    "Nota clases Maria Eugenia.md",
     "POO/ANEXO/Pasted image 20230918180230.png",
     "POO/Bibliografía.md",
     "POO/Apuntes Luis Fernandez.md",

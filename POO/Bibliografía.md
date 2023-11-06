@@ -4,3 +4,5 @@
 - Programación orientada a objetos-Budd(Recomendado)
 -  c++ de Stroustrup
 - La estructura de las revoluciones científicas
+
+Jose habló de Deitel(Mirar un poco)
