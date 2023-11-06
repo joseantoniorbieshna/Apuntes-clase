@@ -65,6 +65,13 @@ Nota: cuando necesitas los datos, no te queda de otra que estar acoplado con est
 **Pila** el último que entra es el primero que sale.
 
 
+
+
+
+
+
+
+
 # Clase Acceso a Datos
 Hay diferentes tipos de if
 
@@ -167,3 +174,8 @@ Buffered, diferentes velocidades(adecuarse a las velocidades, parece que utiliza
 Ruta canónica: es cuando es absoluta, pero con puntos por el medio, modificando donde estás, yendo hacia delante o atrás.
 
 Para evitar el down casting se utiliza programación parametrizada.
+
+### PATRONES
+**FACTORY METHOD:** Cuando son objetos simple, pero en tiempo de compilación no sabes cual te va a crear
+**ABSTRACT FACTORY:** Es cuando tienes diferentes tipos de familias de objetos
+**BUILDER:** Se utiliza cuando hay valores que se pueden o no especificar. Ejemplo algunos alimentos tienen azúcar y otros 0 azucares.

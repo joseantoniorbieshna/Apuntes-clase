@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "POO/Bibliografía.md",
+                "file": "Notas clases José.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2806dc5f3f20368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ejercicios para casa Jose.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "POO/Bibliografía.md",
+                "file": "Ejercicios para casa Jose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "POO/Bibliografía.md",
+                "file": "Ejercicios para casa Jose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "POO/Bibliografía.md"
+                "file": "Ejercicios para casa Jose.md"
               }
             }
           }
@@ -146,15 +159,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b68cdeaea1ee21a7",
+  "active": "f2806dc5f3f20368",
   "lastOpenFiles": [
-    "Sin título.md",
+    "Notas clases José.md",
+    "Ejercicios para casa Jose.md",
+    "Nota clases Maria Eugenia.md",
+    "POO/Bibliografía.md",
     "Diseño/Clase 1.md",
     "Notas clases Adelaida.md",
-    "Nota clases Maria Eugenia.md",
     "DOT NET/INTRODUCCIÓN.md",
     "DOT NET",
-    "Notas clases José.md",
     "Sin título 1",
     "Diseño",
     "POO/INTRODUCCIÓN POO 5.md",
@@ -175,7 +189,6 @@
     "POO/ANEXO/Pasted image 20230921222403.png",
     "POO/ANEXO/Pasted image 20230921215814.png",
     "POO/ANEXO/Pasted image 20230918180230.png",
-    "POO/Bibliografía.md",
     "POO/Apuntes Luis Fernandez.md",
     "POO/Ejemplos.md",
     "Pasted image 20230914140148.png.md",
