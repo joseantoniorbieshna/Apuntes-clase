@@ -54,6 +54,8 @@ En un documento cshtml puedes mezclar codigo c# y html, este archivo utiliza una
 
 La vista no tienes que tener mucha lógica, ya que esta se debería solo de encargarse en mostrar los datos al usuario.
 
+Para comentarios en razor: @\*Comentario\*@
+
 ##### Explicación Layot Design o pagina de diseño
 ![[Pasted image 20231107202314.png]]
 En ingles: Use layout page.
@@ -63,9 +65,18 @@ Cuando marcas esa opción, le estas diciendo que la vista se cargará primero en
 Esta pagina de diseño se utiliza cuando las páginas comparten el mismo contenido, por ejemplo un menú de navegación, footer...
 
 Donde se carga la vista dentro de esta página de diseño es en la llamada al método: **RenderBody()**
+
+El layout que se carga en todos se indica en View/\_ViewStart, de todas formas en cada Vista, podemos definir con codigo C# que layout queremos cargar ejemplo:
+@{
+	layout=null; //Aquí lo quitariamos
+}
 ##### Carpeta Shared
 Views/Shared, es una carpeta especial, donde se colocan los recursos compartidos que pueden utilizar cualquiera de las otras vistas.
 
+##### Escribiendo Código en la vista
+Si viene algún dato del controller hay que indicarle con:
+>@model TipoDatoQueEntra o @model List\<TipoDatoQueEntra\>
 
-
-
+**Nota:** si queda con muchos puntos al indicarle el tipo de dato, se pude cambiar en el web.config (No testeado)
+##### Anotaciones HTML
+Vease: [[HTML NOTACION | HTML metodos]]

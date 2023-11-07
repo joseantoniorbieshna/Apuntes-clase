@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOT NET/INTRODUCCIÓN.md",
+                "file": "DOT NET/HTML NOTACION.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DOT NET/INTRODUCCIÓN.md",
+                "file": "DOT NET/HTML NOTACION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DOT NET/INTRODUCCIÓN.md",
+                "file": "DOT NET/HTML NOTACION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DOT NET/INTRODUCCIÓN.md"
+                "file": "DOT NET/HTML NOTACION.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "b68cdeaea1ee21a7",
   "lastOpenFiles": [
-    "Notas clases José.md",
     "DOT NET/INTRODUCCIÓN.md",
+    "DOT NET/HTML NOTACION.md",
+    "POO/INTRODUCCIÓN POO.md",
+    "Diseño de software/Clase 1.md",
+    "DOT NET/ANEXO/Pasted image 20231107220903.png",
+    "DOT NET/ANEXO/Pasted image 20231107220842.png",
+    "DOT NET/ANEXO/Pasted image 20231107215930.png",
+    "Notas clases José.md",
     "DOT NET/ANEXO/Pasted image 20231107203225.png",
     "DOT NET/ANEXO/Pasted image 20231107202314.png",
     "DOT NET/ANEXO/Pasted image 20231107195726.png",
@@ -157,11 +163,7 @@
     "DOT NET/ANEXO/Pasted image 20231107195536.png",
     "DOT NET/ANEXO/Pasted image 20231107193827.png",
     "DOT NET/ANEXO/Pasted image 20231107193812.png",
-    "DOT NET/ANEXO/Pasted image 20231107193446.png",
-    "DOT NET/ANEXO/Pasted image 20231107193403.png",
-    "DOT NET/ANEXO/Pasted image 20231107190749.png",
     "DOT NET/ANEXO",
-    "Diseño de software/Clase 1.md",
     "Diseño/Clase 1.md",
     "Ejercicios para casa Jose.md",
     "Diseño de software",
@@ -173,7 +175,6 @@
     "Diseño",
     "POO/INTRODUCCIÓN POO 5.md",
     "POO/INTRODUCCIÓN POO 3.md",
-    "POO/INTRODUCCIÓN POO.md",
     "POO/INTRODUCCIÓN POO 2.md",
     "POO/INTRODUCCIÓN POO 6.md",
     "POO/INTRODUCCIÓN POO 4.md",
