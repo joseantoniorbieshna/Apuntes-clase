@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas clases José.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2806dc5f3f20368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ejercicios para casa Jose.md",
+                "file": "DOT NET/HTML NOTACION.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ejercicios para casa Jose.md",
+                "file": "DOT NET/HTML NOTACION.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ejercicios para casa Jose.md",
+                "file": "DOT NET/HTML NOTACION.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ejercicios para casa Jose.md"
+                "file": "DOT NET/HTML NOTACION.md"
               }
             }
           }
@@ -159,38 +146,40 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f2806dc5f3f20368",
+  "active": "b68cdeaea1ee21a7",
   "lastOpenFiles": [
+    "DOT NET/INTRODUCCIÓN.md",
+    "DOT NET/HTML NOTACION.md",
+    "POO/INTRODUCCIÓN POO.md",
     "Diseño de software/Clase 1.md",
-    "Diseño de software",
+    "DOT NET/ANEXO/Pasted image 20231107220903.png",
+    "DOT NET/ANEXO/Pasted image 20231107220842.png",
+    "DOT NET/ANEXO/Pasted image 20231107215930.png",
     "Notas clases José.md",
+    "DOT NET/ANEXO/Pasted image 20231107203225.png",
+    "DOT NET/ANEXO/Pasted image 20231107202314.png",
+    "DOT NET/ANEXO/Pasted image 20231107195726.png",
+    "DOT NET/ANEXO/Pasted image 20231107195936.png",
+    "DOT NET/ANEXO/Pasted image 20231107195536.png",
+    "DOT NET/ANEXO/Pasted image 20231107193827.png",
+    "DOT NET/ANEXO/Pasted image 20231107193812.png",
+    "DOT NET/ANEXO",
+    "Diseño/Clase 1.md",
     "Ejercicios para casa Jose.md",
+    "Diseño de software",
     "Nota clases Maria Eugenia.md",
     "POO/Bibliografía.md",
-    "Diseño/Clase 1.md",
     "Notas clases Adelaida.md",
-    "DOT NET/INTRODUCCIÓN.md",
     "DOT NET",
     "Sin título 1",
     "Diseño",
     "POO/INTRODUCCIÓN POO 5.md",
     "POO/INTRODUCCIÓN POO 3.md",
-    "POO/INTRODUCCIÓN POO.md",
     "POO/INTRODUCCIÓN POO 2.md",
     "POO/INTRODUCCIÓN POO 6.md",
     "POO/INTRODUCCIÓN POO 4.md",
-    "POO/ANEXO/Pasted image 20230928095853.png",
-    "POO/ANEXO/Pasted image 20230928095919.png",
-    "POO/ANEXO/Pasted image 20230928095239.png",
-    "POO/ANEXO/Pasted image 20230927215653.png",
-    "POO/ANEXO/Pasted image 20230917101006.png",
-    "POO/ANEXO/Pasted image 20230923203629.png",
     "POO/INTRODUCCION POO 4.md",
     "Notas clases Nieves.md",
-    "POO/ANEXO/Pasted image 20230921225032.png",
-    "POO/ANEXO/Pasted image 20230921222403.png",
-    "POO/ANEXO/Pasted image 20230921215814.png",
-    "POO/ANEXO/Pasted image 20230918180230.png",
     "POO/Apuntes Luis Fernandez.md",
     "POO/Ejemplos.md",
     "Pasted image 20230914140148.png.md",
