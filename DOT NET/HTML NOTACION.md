@@ -11,6 +11,9 @@ En routeValues y htmlAttributes puedes crear objetos anónimos y le pasas lo que
 
 IMPORTANTE
 Hay que tener cuidado de poner este renderAction en **el layout general** , ya que si rederizamos un Action que carga **el layout general**, entra en recursividad.
+@{
+	Lauout=null;
+}
 
 Se puede solucionar poniendo **\[ChildActionResult\]** en el Action en el controller, de esta manera solo se podrá utilizar con RenderAction o Action.
 
