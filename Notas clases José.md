@@ -179,3 +179,9 @@ Para evitar el down casting se utiliza programación parametrizada.
 **FACTORY METHOD:** Cuando son objetos simple, pero en tiempo de compilación no sabes cual te va a crear
 **ABSTRACT FACTORY:** Es cuando tienes diferentes tipos de familias de objetos
 **BUILDER:** Se utiliza cuando hay valores que se pueden o no especificar. Ejemplo algunos alimentos tienen azúcar y otros 0 azucares.
+
+**Bridge:** Una metafora sería un puente, que une dos orillas, ejemplo mando universal, que puedes cambiar el tipo de tv que es.
+
+Nota: si no puedes cambiarlo con un set es bridge, si lo puedes cambiar en tiempo de ejecución con un set sería **strategy**.
+
+**Adapter:** Es como la corriente y un cargador, donde la entrada de la corriente entra algo, se transforma en el medio y sale la entrada transformada.

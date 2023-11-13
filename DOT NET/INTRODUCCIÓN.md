@@ -77,6 +77,13 @@ Views/Shared, es una carpeta especial, donde se colocan los recursos compartidos
 Si viene algún dato del controller hay que indicarle con:
 >@model TipoDatoQueEntra o @model List\<TipoDatoQueEntra\>
 
-**Nota:** si queda con muchos puntos al indicarle el tipo de dato, se pude cambiar en el web.config (No testeado)
+**Nota:** si queda con muchos puntos al indicarle el tipo de dato, se pude cambiar en el web.config (No testeado) 
+
+#### Vistas parciales
+Es una view normal pero empieza por barra baja "\_", cuando la creas es importante marcar la opcion de create as a partial view. 
+Después se llama desde cualquier parte si lo has creado en shared o desde Las Views del controller si lo has puesto en la carpeta View de un controller.
+Html.Partial("nombreVistaParcial",Modelo utilizado)
 ##### Anotaciones HTML
 Vease: [[HTML NOTACION | HTML metodos]]
+#### Anotaciones Generales
+Si yo a una variable le pongo interrogación, eso significa que puede ser null

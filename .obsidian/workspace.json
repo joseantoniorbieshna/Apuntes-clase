@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOT NET/HTML NOTACION.md",
+                "file": "Notas clases José.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2806dc5f3f20368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diseño/Clase 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Adapter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DOT NET/HTML NOTACION.md",
+                "file": "Diseño/Clase 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DOT NET/HTML NOTACION.md",
+                "file": "Diseño/Clase 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DOT NET/HTML NOTACION.md"
+                "file": "Diseño/Clase 1.md"
               }
             }
           }
@@ -146,35 +159,39 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b68cdeaea1ee21a7",
+  "active": "d3fec7eaabcf749f",
   "lastOpenFiles": [
+    "Notas clases Adelaida.md",
+    "Notas clases José.md",
+    "DOT NET/HTML DISPLAY Y EDITOR.md",
     "DOT NET/INTRODUCCIÓN.md",
     "DOT NET/HTML NOTACION.md",
-    "POO/INTRODUCCIÓN POO.md",
+    "Ejercicios para casa Jose.md",
+    "DOT NET/EntityFramework y Scaffolding.md",
+    "DOT NET/ANEXO/Pasted image 20231112154024.png",
+    "DOT NET/ANEXO/Pasted image 20231112153720.png",
+    "DOT NET/ANEXO/Pasted image 20231112153353.png",
+    "DOT NET/ANEXO/Pasted image 20231112152429.png",
+    "Nota clases Maria Eugenia.md",
+    "Android Studio/Sin título.md",
+    "Android Studio",
     "Diseño de software/Clase 1.md",
+    "Diseño/Clase 1.md",
     "DOT NET/ANEXO/Pasted image 20231107220903.png",
     "DOT NET/ANEXO/Pasted image 20231107220842.png",
     "DOT NET/ANEXO/Pasted image 20231107215930.png",
-    "Notas clases José.md",
     "DOT NET/ANEXO/Pasted image 20231107203225.png",
     "DOT NET/ANEXO/Pasted image 20231107202314.png",
-    "DOT NET/ANEXO/Pasted image 20231107195726.png",
     "DOT NET/ANEXO/Pasted image 20231107195936.png",
-    "DOT NET/ANEXO/Pasted image 20231107195536.png",
-    "DOT NET/ANEXO/Pasted image 20231107193827.png",
-    "DOT NET/ANEXO/Pasted image 20231107193812.png",
     "DOT NET/ANEXO",
-    "Diseño/Clase 1.md",
-    "Ejercicios para casa Jose.md",
     "Diseño de software",
-    "Nota clases Maria Eugenia.md",
     "POO/Bibliografía.md",
-    "Notas clases Adelaida.md",
     "DOT NET",
     "Sin título 1",
     "Diseño",
     "POO/INTRODUCCIÓN POO 5.md",
     "POO/INTRODUCCIÓN POO 3.md",
+    "POO/INTRODUCCIÓN POO.md",
     "POO/INTRODUCCIÓN POO 2.md",
     "POO/INTRODUCCIÓN POO 6.md",
     "POO/INTRODUCCIÓN POO 4.md",
@@ -186,7 +203,6 @@
     "POO/ANEXO",
     "Nota clases Maria eugenia",
     "Luis Fernandez ep 1",
-    "POO",
-    "Nota clases Nieves"
+    "POO"
   ]
 }

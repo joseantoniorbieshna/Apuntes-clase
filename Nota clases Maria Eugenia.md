@@ -1,6 +1,8 @@
 En came y dafo las vocales son del exterior.
 Tema 2 entero, excepto entorno cambiante y sencillo(Eso no entra)
 
+hacer el 
+
 **SI ENTRA**
 -PORTEL
 -PESTEL
