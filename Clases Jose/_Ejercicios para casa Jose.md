@@ -10,5 +10,8 @@ Ejercicio Jose, ver porque cuando pongo sleep time sale verde y cuando pongo was
 
 El ejercico del icne, Guardar en una lista las peticines de referencia y hacer el do while, si esta pillado o está full, ver también ver pitCode y pitResponse
 
+Mirar observer, porque casi seguro entra en el examen.
 
 cargar un elemento del menu y descargarlo on off boton (NIEVEEES)
+
+Martes 28 examen Nieves

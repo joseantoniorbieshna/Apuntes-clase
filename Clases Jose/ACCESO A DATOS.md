@@ -110,3 +110,10 @@ Para evitar el down casting se utiliza programación parametrizada.
 Nota: si no puedes cambiarlo con un set es bridge, si lo puedes cambiar en tiempo de ejecución con un set sería **strategy**.
 
 **Adapter:** Es como la corriente y un cargador, donde la entrada de la corriente entra algo, se transforma en el medio y sale la entrada transformada.
+
+**Composite:** El ejemplo visto en clase es un arbol con nodos y hojas.
+
+El strategy es como el bridge, pero se setea desde fuera
+el state, se setea desde dentro.
+
+Reflexion:

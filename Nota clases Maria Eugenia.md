@@ -11,3 +11,5 @@ hacer el
 pagina 8, 9 entra(punto 6,7,8) entra
 
 Tema 1, tema 2 entero, tema 3 y tema 7.
+
+Objetivos=valores en el proyecto

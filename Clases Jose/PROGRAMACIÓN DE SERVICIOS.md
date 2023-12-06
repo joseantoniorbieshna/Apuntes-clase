@@ -62,3 +62,17 @@ Nota: cuando necesitas los datos, no te queda de otra que estar acoplado con est
 **Conjunto** hashet y treeset(no puede haber un elemento repetido).
 **Maps** cada elemento está asociado a un indice.
 **Pila** el último que entra es el primero que sale.
+
+METODOS INTERESANTES
+Instant.now
+Duration.between(instante1,intante2)
+
+1-Hacemos la parte que no tiene hilos
+2-Hacemos test de la parte sin hilos
+3-Cuando el paso anterior esté correcto, Creamos la parte de hilos
+4- Hacemos test de la parte de hilo
+5- SI no funciona los test, hacemos trazas en los diferentes actores(Objetos el cual sea hilo o lo pueda modificar)
+
+
+CALLABLE PUEDES HACER FUTURE
+RUNNABLE

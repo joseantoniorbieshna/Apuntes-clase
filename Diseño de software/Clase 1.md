@@ -50,7 +50,7 @@ Ejemplo bus:
 	Para mi lo importante en un bus es, que tenga conductor, la ruta, las horas de salida y llegada, precio. Pero ignoro, el tipo de gas, tipo de motor, mitocondrias del conductor...
 	Sin embargo para un mecánico, no sería una abstracción mala lo anterior mencionado.
 ### Encapsulación
-Ocultar el detallo del soporte de las características esenciales de una abstracción \[Booch\]
+Ocultar el detalle del soporte de las características esenciales de una abstracción \[Booch\]
 Ejemplo:
 Entendiendo por soporte, que igual me viene de una base de datos, de un fichero, de un input del usuario y se guarda en memoria...
 
@@ -64,4 +64,19 @@ Es el proceso de descomposición de un sistema en un conjunto de piezas poco aco
 
 	Es decir, el **acoplamiento** mide la fuerza entre un elemento y los elementos de fuera, y la **cohesión** mide la fuerza o el grado de conexión entre los elementos de un elemento.
 
+Si una clase llama a un método o instancia de otra clase, entonces ahí hay un acoplamiento(conocido de otra manera dependencia)
+
 Modulo es Clase, método, paquete, librería...
+
+Una clase, puede tener varias responsabilidad, sí están bien escogidas, comparten los mismos datos y tienen sentido que estén juntas, se dice que esa clase es cohesiva.
+
+La técnica para manejar la complejidad, ha sido conocida desde la antigüedad, "Divide y vencerás".
+
+### Jerarquía
+Es el proceso de estructuración por el cual se produce una organización de un conjunto de elementos en grados o niveles de responsabilidad, de clasificación o de composición,... entre otros
+
+![[Pasted image 20231203174435.png]]
+![[Pasted image 20231203174500.png]]
+**Análisis:** Haz lo correcto.(Voy a proponer unas clases, para hacer lo que tengo que hacer)
+"Sería más entidades del mundo real"
+**Diseño:** Hazlo correctamente.(Las clases propuestas, las voy a hacer bien, para que en caso de que me vengan con nuevas funcionalidades, pueda responder).

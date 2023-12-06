@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android Studio/Anotaciones importantes.md",
+                "file": "Concurrencia/Importancia de Syncronized (atomicidad y volatile modifier).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44c889e775983f64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nota clases Maria Eugenia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Adapter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android Studio/Anotaciones importantes.md",
+                "file": "Nota clases Maria Eugenia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android Studio/Anotaciones importantes.md",
+                "file": "Nota clases Maria Eugenia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android Studio/Anotaciones importantes.md"
+                "file": "Nota clases Maria Eugenia.md"
               }
             }
           }
@@ -148,51 +161,51 @@
   },
   "active": "d3fec7eaabcf749f",
   "lastOpenFiles": [
-    "Android Studio/Sin título.md",
-    "Android Studio/Anotaciones importantes.md",
-    "Android Studio/SHORT CUTS.md",
-    "Clases Jose/_Ejercicios para casa Jose.md",
-    "Clases Jose/ACCESO A DATOS.md",
-    "Notas clases José.md",
+    "Concurrencia/Hilos Anotaciones.md",
+    "Concurrencia/Importancia de Syncronized (atomicidad y volatile modifier).md",
+    "Diseño de software/clase 4.md",
+    "Concurrencia/Evita la excesiva sincronización.md",
     "Clases Jose/PROGRAMACIÓN DE SERVICIOS.md",
+    "Clases Jose/ACCESO A DATOS.md",
+    "Diseño de software/Bibliografía.md",
+    "Diseño de software/Clase 2.md",
+    "Diseño de software/ANEXO/Pasted image 20231203204719.png",
+    "Diseño de software/ANEXO/Pasted image 20231203204643.png",
+    "Diseño de software/ANEXO/Pasted image 20231203204043.png",
+    "Clases Jose/Pruebas.md",
     "Diseño de software/Clase 1.md",
+    "Concurrencia/ANEXO/Pasted image 20231130082628.png",
+    "Diseño de software/ANEXO/Pasted image 20231203174500.png",
+    "Diseño de software/ANEXO/Pasted image 20231203174435.png",
+    "Diseño de software/ANEXO",
+    "Notas clases Nieves.md",
+    "Pasted image 20231201002559.png.md",
+    "Concurrencia/ANEXO/Pasted image 20231201002650.png",
+    "Concurrencia/ANEXO/Pasted image 20231201002559.png",
+    "Concurrencia/ANEXO/Pasted image 20231201001454.png",
+    "Concurrencia/ANEXO/Pasted image 20231201001139.png",
+    "Clases Jose/Bibliografía.md",
+    "Concurrencia/ANEXO",
+    "Sin título",
+    "Concurrencia",
+    "DOT NET/INTRODUCCIÓN.md",
+    "DOT NET/HTML DISPLAY Y EDITOR.md",
+    "DOT NET/HTML NOTACION.md",
+    "Nota clases Maria Eugenia.md",
+    "Clases Jose/_Ejercicios para casa Jose.md",
+    "Android Studio/Anotaciones importantes.md",
+    "Android Studio/Sin título.md",
+    "Android Studio/SHORT CUTS.md",
+    "Notas clases José.md",
     "Clases Jose",
     "Diseño/Clase 1.md",
-    "Android Studio/ANEXO/Pasted image 20231110201934.png",
-    "Android Studio/ANEXO/Pasted image 20231110200800.png",
-    "Android Studio/ANEXO/Pasted image 20231110183623.png",
     "Android Studio/ANEXO",
     "Notas clases Adelaida.md",
-    "DOT NET/HTML DISPLAY Y EDITOR.md",
-    "DOT NET/INTRODUCCIÓN.md",
-    "DOT NET/HTML NOTACION.md",
     "DOT NET/EntityFramework y Scaffolding.md",
-    "DOT NET/ANEXO/Pasted image 20231112154024.png",
-    "DOT NET/ANEXO/Pasted image 20231112153720.png",
-    "DOT NET/ANEXO/Pasted image 20231112153353.png",
-    "DOT NET/ANEXO/Pasted image 20231112152429.png",
-    "Nota clases Maria Eugenia.md",
     "Android Studio",
-    "DOT NET/ANEXO/Pasted image 20231107220903.png",
-    "DOT NET/ANEXO/Pasted image 20231107220842.png",
-    "DOT NET/ANEXO/Pasted image 20231107215930.png",
     "DOT NET/ANEXO",
     "Diseño de software",
     "POO VIDEOS/Bibliografía.md",
-    "DOT NET",
-    "Sin título 1",
-    "Diseño",
-    "POO VIDEOS/INTRODUCCIÓN POO 5.md",
-    "POO VIDEOS/INTRODUCCIÓN POO 3.md",
-    "POO VIDEOS/INTRODUCCIÓN POO.md",
-    "POO VIDEOS/INTRODUCCIÓN POO 2.md",
-    "POO VIDEOS/INTRODUCCIÓN POO 6.md",
-    "POO VIDEOS/INTRODUCCIÓN POO 4.md",
-    "POO/INTRODUCCION POO 4.md",
-    "Notas clases Nieves.md",
-    "POO/Apuntes Luis Fernandez.md",
-    "POO VIDEOS/Ejemplos.md",
-    "POO VIDEOS/ANEXO",
-    "Nota clases Maria eugenia"
+    "DOT NET"
   ]
 }

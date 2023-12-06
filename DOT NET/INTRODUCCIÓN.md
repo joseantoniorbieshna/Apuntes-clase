@@ -83,7 +83,13 @@ Si viene algún dato del controller hay que indicarle con:
 Es una view normal pero empieza por barra baja "\_", cuando la creas es importante marcar la opcion de create as a partial view. 
 Después se llama desde cualquier parte si lo has creado en shared o desde Las Views del controller si lo has puesto en la carpeta View de un controller.
 Html.Partial("nombreVistaParcial",Modelo utilizado)
+
 ##### Anotaciones HTML
 Vease: [[HTML NOTACION | HTML metodos]]
+
+#### Migrations
+Video Haciendo y reversando migraciones.
+Add-Migrations -Name nombreElementoParaGuardar -force
+update-database -TargetMigration elementoMigracionElCualQuiero
 #### Anotaciones Generales
 Si yo a una variable le pongo interrogación, eso significa que puede ser null
