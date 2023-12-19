@@ -26,3 +26,24 @@ Encontrar un equilibrio etntre
 
 
 **Principio de menor sorpresa y menor compromiso**, no hagas algo que no se indique en el nombre del método.
+
+**UN MÉTODO SOLO TIENE QUE HACER UNA UNICA COSA**
+
+
+**Cirugía a escopetazo**
+No tener raw un numero, porque no vas a saber si ejemplo un 3, es de el tamaño del tablero, o el turno del jugador, o el volumen...
+Se le pone en variables, así cuando le tengamos que cambiar, solo hará falta cambiar una variable, además que a la hora de leerlo quedará más claro.
+Ejemplo, cambiar de 3 en raya a 4 en raya.
+
+**Obsesión por tipos primitivos**
+No hay que obsesionarse con los tipos primitivos, si puedo hacer un objeto, se hace un objeto, eso si, si no tiene comportamiento y solo tiene getter y setter no se hace objeto.
+
+Cuando hay más de 3 parámetros, estaría mal, y se dice que es una **lista de parámetros larga**
+
+Cuando hay grupo de datos. normalmente es un objeto.
+Ejemplo fila, columna, se podría hacer Coordenada.
+
+**DRY, dont repeat yourself**
+
+WET, te repites(esto es MALO)
+

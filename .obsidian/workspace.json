@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nota clases Maria Eugenia.md",
+                "file": "GIT/Sin título.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nota clases Maria Eugenia.md",
+                "file": "GIT/Sin título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nota clases Maria Eugenia.md",
+                "file": "GIT/Sin título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nota clases Maria Eugenia.md"
+                "file": "GIT/Sin título.md"
               }
             }
           }
@@ -159,11 +159,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d3fec7eaabcf749f",
+  "active": "44c889e775983f64",
   "lastOpenFiles": [
-    "Concurrencia/Hilos Anotaciones.md",
+    "GIT/ANEXO/Pasted image 20231219085236.png",
+    "GIT/ANEXO",
+    "DOT NET/INTRODUCCIÓN.md",
+    "GIT/Sin título.md",
+    "GIT",
+    "DOT NET/HTML NOTACION.md",
     "Concurrencia/Importancia de Syncronized (atomicidad y volatile modifier).md",
+    "Android Studio/Anotaciones importantes.md",
+    "Android Studio/ANEXO/Pasted image 20231207004916.png",
     "Diseño de software/clase 4.md",
+    "Nota clases Maria Eugenia.md",
+    "Concurrencia/Hilos Anotaciones.md",
     "Concurrencia/Evita la excesiva sincronización.md",
     "Clases Jose/PROGRAMACIÓN DE SERVICIOS.md",
     "Clases Jose/ACCESO A DATOS.md",
@@ -183,17 +192,11 @@
     "Concurrencia/ANEXO/Pasted image 20231201002650.png",
     "Concurrencia/ANEXO/Pasted image 20231201002559.png",
     "Concurrencia/ANEXO/Pasted image 20231201001454.png",
-    "Concurrencia/ANEXO/Pasted image 20231201001139.png",
     "Clases Jose/Bibliografía.md",
     "Concurrencia/ANEXO",
-    "Sin título",
     "Concurrencia",
-    "DOT NET/INTRODUCCIÓN.md",
     "DOT NET/HTML DISPLAY Y EDITOR.md",
-    "DOT NET/HTML NOTACION.md",
-    "Nota clases Maria Eugenia.md",
     "Clases Jose/_Ejercicios para casa Jose.md",
-    "Android Studio/Anotaciones importantes.md",
     "Android Studio/Sin título.md",
     "Android Studio/SHORT CUTS.md",
     "Notas clases José.md",
@@ -201,11 +204,8 @@
     "Diseño/Clase 1.md",
     "Android Studio/ANEXO",
     "Notas clases Adelaida.md",
-    "DOT NET/EntityFramework y Scaffolding.md",
     "Android Studio",
     "DOT NET/ANEXO",
-    "Diseño de software",
-    "POO VIDEOS/Bibliografía.md",
-    "DOT NET"
+    "Diseño de software"
   ]
 }

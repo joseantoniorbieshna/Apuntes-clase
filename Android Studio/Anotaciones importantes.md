@@ -54,3 +54,7 @@ EL RecycleViewAdapter, se utilizará para:
 ![[Pasted image 20231110201934.png]]
 ![[Pasted image 20231110200800.png]]
 
+
+
+
+![[Pasted image 20231207004916.png]]
