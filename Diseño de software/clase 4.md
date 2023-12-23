@@ -36,14 +36,33 @@ Se le pone en variables, así cuando le tengamos que cambiar, solo hará falta c
 Ejemplo, cambiar de 3 en raya a 4 en raya.
 
 **Obsesión por tipos primitivos**
-No hay que obsesionarse con los tipos primitivos, si puedo hacer un objeto, se hace un objeto, eso si, si no tiene comportamiento y solo tiene getter y setter no se hace objeto.
+No hay que obsesionarse con los tipos primitivos, si puedo hacer un objeto, se hace un objeto, eso si. 
+- si no tiene comportamiento y solo tiene getter y setter no se hace objeto.
 
 Cuando hay más de 3 parámetros, estaría mal, y se dice que es una **lista de parámetros larga**
 
-Cuando hay grupo de datos. normalmente es un objeto.
+Cuando hay **grupo de datos**. normalmente es un objeto.
 Ejemplo fila, columna, se podría hacer Coordenada.
 
 **DRY, dont repeat yourself**
 
-WET, te repites(esto es MALO)
+**WET,  we enjoy typing.** te repites(esto es MALO)
 
+
+**Kiss, Keep it Simple Stupid**
+
+
+Hay que dar responsabilidades a las clases tontas:
+![[Pasted image 20231222173445.png]]
+Es decir, a las clases tontas, que solo tienen get y set, con imaginación, hay que darle responsabilidades.
+
+Además, siempre me va a costar leer menos 4 clase de 60 líneas, que una clase de 240 líneas.
+
+
+Como saber si tengo que crear otras clases:
+- Cuando una clase excede de 300 lineas(Hay que empezar a partirla)
+- Cuando una clase se te queda con solo get y set, piensa como dar responsabilidad. (Mirando en la clase grande donde hay envidia de características. Es decir, "donde hay muchos get y set en la otra clase") 
+
+
+
+## Diseño por contrato
