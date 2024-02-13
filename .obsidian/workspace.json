@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2ae9c974fc8d1d57",
+        "id": "5e8b67adae994d1b",
         "type": "tabs",
         "children": [
           {
-            "id": "f2806dc5f3f20368",
+            "id": "4eec8437a2636a72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concurrencia/Importancia de Syncronized (atomicidad y volatile modifier).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44c889e775983f64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIT/Sin título.md",
+                "file": "Notas clases Adelaida.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/Sin título.md",
+                "file": "Notas clases Adelaida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/Sin título.md",
+                "file": "Notas clases Adelaida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Sin título.md"
+                "file": "Notas clases Adelaida.md"
               }
             }
           }
@@ -159,17 +146,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "44c889e775983f64",
+  "active": "4eec8437a2636a72",
   "lastOpenFiles": [
+    "EJercicios/Desarrollo de interfaces .Net API REST.md",
+    "EJercicios",
+    "Diseño de software/Clase 6.md",
+    "Diseño de software/ANEXO/Pasted image 20240109201842.png",
+    "Diseño de software/ANEXO/Pasted image 20231224152205.png",
+    "Clases Jose/TODAS LAS ANOTACIONES SPRING.md",
+    "Clases Jose/Spring.md",
+    "Clases Jose/Spring Acceso a Datos.md",
+    "Clases Jose/Lombok.md",
+    "OTROS/KALI/Notas.md",
+    "OTROS/KALI/Instalación kali custom.md",
+    "OTROS/KALI/ANEXO/Pasted image 20240102191524.png",
+    "Concurrencia/Importancia de Syncronized (atomicidad y volatile modifier).md",
+    "OTROS/KALI/fondo.png",
+    "OTROS/KALI/ANEXO/Pasted image 20231227132114.png",
+    "OTROS/KALI/ANEXO/Pasted image 20231227131956.png",
+    "OTROS/KALI/ANEXO/Pasted image 20231227131900.png",
+    "OTROS/KALI/ANEXO",
+    "OTROS/KALI",
+    "OTROS",
+    "GIT/GIT OVERFLOW.md",
+    "GIT/ANEXO/Pasted image 20231219190950.png",
+    "GIT/ANEXO/Pasted image 20231219190930.png",
     "GIT/ANEXO/Pasted image 20231219085236.png",
     "GIT/ANEXO",
     "DOT NET/INTRODUCCIÓN.md",
-    "GIT/Sin título.md",
     "GIT",
     "DOT NET/HTML NOTACION.md",
-    "Concurrencia/Importancia de Syncronized (atomicidad y volatile modifier).md",
     "Android Studio/Anotaciones importantes.md",
-    "Android Studio/ANEXO/Pasted image 20231207004916.png",
     "Diseño de software/clase 4.md",
     "Nota clases Maria Eugenia.md",
     "Concurrencia/Hilos Anotaciones.md",
@@ -178,34 +185,14 @@
     "Clases Jose/ACCESO A DATOS.md",
     "Diseño de software/Bibliografía.md",
     "Diseño de software/Clase 2.md",
-    "Diseño de software/ANEXO/Pasted image 20231203204719.png",
-    "Diseño de software/ANEXO/Pasted image 20231203204643.png",
-    "Diseño de software/ANEXO/Pasted image 20231203204043.png",
     "Clases Jose/Pruebas.md",
     "Diseño de software/Clase 1.md",
-    "Concurrencia/ANEXO/Pasted image 20231130082628.png",
-    "Diseño de software/ANEXO/Pasted image 20231203174500.png",
-    "Diseño de software/ANEXO/Pasted image 20231203174435.png",
     "Diseño de software/ANEXO",
     "Notas clases Nieves.md",
     "Pasted image 20231201002559.png.md",
-    "Concurrencia/ANEXO/Pasted image 20231201002650.png",
-    "Concurrencia/ANEXO/Pasted image 20231201002559.png",
-    "Concurrencia/ANEXO/Pasted image 20231201001454.png",
     "Clases Jose/Bibliografía.md",
     "Concurrencia/ANEXO",
     "Concurrencia",
-    "DOT NET/HTML DISPLAY Y EDITOR.md",
-    "Clases Jose/_Ejercicios para casa Jose.md",
-    "Android Studio/Sin título.md",
-    "Android Studio/SHORT CUTS.md",
-    "Notas clases José.md",
-    "Clases Jose",
-    "Diseño/Clase 1.md",
-    "Android Studio/ANEXO",
-    "Notas clases Adelaida.md",
-    "Android Studio",
-    "DOT NET/ANEXO",
-    "Diseño de software"
+    "Clases Jose"
   ]
 }

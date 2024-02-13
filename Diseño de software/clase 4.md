@@ -66,3 +66,29 @@ Como saber si tengo que crear otras clases:
 
 
 ## Diseño por contrato
+**Fallo:** Es cuando el sistema no cumple los requisitos(Se aparta de su comportamiento específico).
+**Defecto:** Es la propiedad de un sistema donde puede haber un fallo.
+
+Tipo de errores:
+- **Errores excepcionales:** Están fueras del limite de tu ámbito de software(conexión, fichero...)
+- **Errores Lógicos:** Cuando haces algo mal dentro de tu código (inicializar mal un contador, recorrer mal un bucle...).
+
+**La robustez**, es la capacidad del software de reaccionar a casos no incluidos en la especificación.
+
+Hay diferentes maneras de conseguir esto:
+**Programación defensiva(Mala práctica):** Lo primero que comprueba es, si el número es negativo, saca un error por pantalla. 
+- (Está mal, ya que si sacas un error por pantalla, y la pantalla es gráfica  no saldrá o saldrá por el servidor).
+
+- Otro error:
+	Si es negativo, devuelvo -1 (Esto también está mal). Ya que si está dentro de las posibilidades, no podrías tirar de este mecanismo, además dentro de todos los que llaman a este, tendrían que comprobar que esto no se cumple.
+
+
+![[Pasted image 20231224152205.png]]
+Es importante poner en la **VM -ea** para activar los assert(enable assert)
+
+Diseño por contrato: Si por ejemplo un método funciona sin null, no controlarlo dentro de ese método, si no en el qué lo utiliza(cliente), porque si no estarías haciendo algo que no le corresponde al método.
+
+Esto tiene una ventaja, ejemplo, si quisiéramos hacer esto mismo con excepciones, habría que obligar al cliente a tener try catch.
+
+Para simplificarlo sirve para cuando estamos desarrollando, que el programa pete si no se le está pasando algo que no debías, para que este mismo que lo llama corrija lo necesario.
+
