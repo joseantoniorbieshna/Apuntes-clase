@@ -1,0 +1,1 @@
+[https://matematicas.unex.es/~navarro/algebralineal/apuntesfisicas.pdf](https://matematicas.unex.es/~navarro/algebralineal/apuntesfisicas.pdf "https://matematicas.unex.es/~navarro/algebralineal/apuntesfisicas.pdf")
