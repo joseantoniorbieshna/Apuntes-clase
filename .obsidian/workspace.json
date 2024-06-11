@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concurrencia/Importancia de Syncronized (atomicidad y volatile modifier).md",
+                "file": "Clases Jose/Spring Acceso a Datos.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT/Sin título.md",
+                "file": "Clases Jose/Spring Mongo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffc25206402b60d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clases Jose/Spring Acceso a Datos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "493971b5b24bdb45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas clases Adelaida.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4be743964791403c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOT NET/INTRODUCCIÓN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/Sin título.md",
+                "file": "DOT NET/INTRODUCCIÓN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT/Sin título.md",
+                "file": "DOT NET/INTRODUCCIÓN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/Sin título.md"
+                "file": "DOT NET/INTRODUCCIÓN.md"
               }
             }
           }
@@ -151,61 +187,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "44c889e775983f64",
+  "active": "4be743964791403c",
   "lastOpenFiles": [
-    "GIT/ANEXO/Pasted image 20231219085236.png",
-    "GIT/ANEXO",
-    "DOT NET/INTRODUCCIÓN.md",
-    "GIT/Sin título.md",
-    "GIT",
     "DOT NET/HTML NOTACION.md",
-    "Concurrencia/Importancia de Syncronized (atomicidad y volatile modifier).md",
-    "Android Studio/Anotaciones importantes.md",
-    "Android Studio/ANEXO/Pasted image 20231207004916.png",
-    "Diseño de software/clase 4.md",
-    "Nota clases Maria Eugenia.md",
-    "Concurrencia/Hilos Anotaciones.md",
-    "Concurrencia/Evita la excesiva sincronización.md",
-    "Clases Jose/PROGRAMACIÓN DE SERVICIOS.md",
-    "Clases Jose/ACCESO A DATOS.md",
-    "Diseño de software/Bibliografía.md",
-    "Diseño de software/Clase 2.md",
-    "Diseño de software/ANEXO/Pasted image 20231203204719.png",
-    "Diseño de software/ANEXO/Pasted image 20231203204643.png",
-    "Diseño de software/ANEXO/Pasted image 20231203204043.png",
-    "Clases Jose/Pruebas.md",
-    "Diseño de software/Clase 1.md",
-    "Concurrencia/ANEXO/Pasted image 20231130082628.png",
-    "Diseño de software/ANEXO/Pasted image 20231203174500.png",
-    "Diseño de software/ANEXO/Pasted image 20231203174435.png",
-    "Diseño de software/ANEXO",
+    "DOT NET/HTML DISPLAY Y EDITOR.md",
+    "DOT NET/EntityFramework y Scaffolding.md",
     "Notas clases Nieves.md",
-    "Pasted image 20231201002559.png.md",
-    "Concurrencia/ANEXO/Pasted image 20231201002650.png",
-    "Concurrencia/ANEXO/Pasted image 20231201002559.png",
-    "Concurrencia/ANEXO/Pasted image 20231201001454.png",
+    "Diseño de software/Clase 6.md",
+    "Diseño de software/clase 4.md",
+    "Diseño de software/Clase 2.md",
+    "Diseño de software/Bibliografía.md",
+    "POO VIDEOS/INTRODUCCIÓN POO 3.md",
+    "POO VIDEOS/INTRODUCCIÓN POO.md",
+    "Notas clases Adelaida.md",
+    "Diseño de software/Clase 1.md",
+    "Clases Jose/Spring Mongo.md",
+    "Clases Jose/Spring Security.md",
+    "Clases Jose/TODAS LAS ANOTACIONES SPRING.md",
+    "Clases Jose/Spring.md",
+    "Clases Jose/Spring Acceso a Datos.md",
+    "Clases Jose/ANEXO/Pasted image 20240206100136.png",
+    "Clases Jose/ANEXO/Pasted image 20240206100058.png",
+    "Clases Jose/ANEXO/Pasted image 20240206100003.png",
+    "Clases Jose/ACCESO A DATOS.md",
     "Clases Jose/Bibliografía.md",
+    "Clases Jose/ANEXO/Pasted image 20240205091644.png",
+    "Clases Jose/ANEXO/Pasted image 20240205090247.png",
+    "Clases Jose/ANEXO/Pasted image 20240205085837.png",
+    "Clases Jose/ANEXO/Pasted image 20240205085859.png",
+    "Clases Jose/ANEXO/Pasted image 20240205085604.png",
+    "Clases Jose/ANEXO",
+    "Clases Jose/Lombok.md",
+    "Concurrencia/Evita la excesiva sincronización.md",
+    "Concurrencia/Hilos Anotaciones.md",
+    "EJercicios/Desarrollo de interfaces .Net API REST.md",
+    "DOT NET/INTRODUCCIÓN.md",
+    "Diseño de software/ANEXO/Pasted image 20240109201842.png",
+    "Concurrencia/Importancia de Syncronized (atomicidad y volatile modifier).md",
+    "POO VIDEOS/INTRODUCCIÓN POO 6.md",
+    "SPRING",
+    "EJercicios",
+    "Diseño de software/ANEXO/Pasted image 20231224152205.png",
+    "GIT/ANEXO",
+    "GIT",
+    "Diseño de software/ANEXO",
     "Concurrencia/ANEXO",
     "Concurrencia",
-    "DOT NET/HTML DISPLAY Y EDITOR.md",
-    "Clases Jose/_Ejercicios para casa Jose.md",
-    "Android Studio/Sin título.md",
-    "Android Studio/SHORT CUTS.md",
-    "Notas clases José.md",
     "Clases Jose",
-    "Diseño/Clase 1.md",
-    "Android Studio/ANEXO",
-    "Notas clases Adelaida.md",
-    "Android Studio",
-    "DOT NET/ANEXO",
-    "Diseño de software"
+    "Android Studio/ANEXO"
   ]
 }

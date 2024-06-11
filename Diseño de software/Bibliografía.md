@@ -12,3 +12,4 @@ EN el video 2 sobre el min 40 hay muchos libros
 UML GOTA A GOTA (chiquitito pero bueno)
 
 
+Applying UML and Patterns\[Graig Larman\]

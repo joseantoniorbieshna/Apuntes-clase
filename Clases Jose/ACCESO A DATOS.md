@@ -116,4 +116,5 @@ Nota: si no puedes cambiarlo con un set es bridge, si lo puedes cambiar en tiemp
 El strategy es como el bridge, pero se setea desde fuera
 el state, se setea desde dentro.
 
-Reflexion:
+
+

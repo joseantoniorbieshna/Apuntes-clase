@@ -77,6 +77,17 @@ Es el proceso de estructuración por el cual se produce una organización de un 
 
 ![[Pasted image 20231203174435.png]]
 ![[Pasted image 20231203174500.png]]
+
 **Análisis:** Haz lo correcto.(Voy a proponer unas clases, para hacer lo que tengo que hacer)
 "Sería más entidades del mundo real"
+
+Hay que tener en cuenta:
+- Es superficial
+- Es un análisis de problema del dominio, no del problema para la solución. 
+	- No se mete en tecnologías
+	- no entra en temas de distribución
+	- no entra en sistemas operativos
+	- no entra en si es para web o móvil, etc.
+- Es como si estuviéramos haciendo un software maravilloso, donde se ejecutara en todos los sitios.
+- Es hablar con el cliente, hablar con el lenguaje del cliente, sin pensar en tecnologías, ni lenguajes de programación.
 **Diseño:** Hazlo correctamente.(Las clases propuestas, las voy a hacer bien, para que en caso de que me vengan con nuevas funcionalidades, pueda responder).
