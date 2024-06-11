@@ -30,3 +30,31 @@
 @RequestBody
 //Le pasas por parametro
 @RequestParams
+
+### Añadir Beans
+Creamos una clase con la anotación
+@Configuration
+En el método donde lo pillas ponemos @Beans
+
+### Validaciones
+HAY QUE IMPORTAR LA DEPENDENCIA "Validation".
+
+@NotNull
+@NotEmpty
+@Size
+@Min
+@Max
+@Valid -> En el endpoint, en el parametro(Se valida antes de entrar al método)
+#### Comprobadores expecíficos
+@Email
+@NotBlank
+@Url
+@CreditCardNumber
+@DecimalMin
+@DecimalMax
+@Digits
+@Positive
+@Negative
+@Future -> Sobre fechas
+@Past -> Sobre fechas
+@Pattern(regexp=" ") -> Regex

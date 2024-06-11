@@ -37,4 +37,31 @@ Después tendremos que crear el Repositorio, no sería DAO, ya que lo hace todo 
 
 ### Anotaciones importantes
 - Es importante hacer el hashCode y el equals
-- 
+
+
+### ID DE VARIAS TABLAS
+Si necesitamos una key de varios tablas, se hace una clase donde obtenga varios objetos y tiene que ser SERIALIZABLE. Y en la clase donde está la relación, hay que poner la etiqueta: @IdClass(PacienteQuirofanoCirujanoKey.class)
+Y en cada campo que esté en la clase, en la clase de la relación hay que poner @Id
+
+**En la relación poner CASCADE.ALL, para que cuando inserte sin ser la misma referencia, guarde.**
+
+### Mocks
+@MockBeans -> Son objetos que no existen, no se comportan de ninguna manera.
+				Hay que utilizar when
+@InjectMocks -> Tiene que ir con @autowired y tiene que ser una implementación concreta.
+
+
+### Crear tu propias reglas
+find o delete -> Luego podemos (opcional) poner first, first %num%
+
+
+### Configuración MySql
+```
+spring.datasource.url=jdbc:mysql://localhost:3306/usuarios
+spring.datasource.username=root
+spring.datasource.password=
+
+spring.jpa.hibernate.ddl-auto=create
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.format_sql=true
+```

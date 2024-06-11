@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4eec8437a2636a72",
+            "id": "09970794673b39fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas clases Adelaida.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas clases Adelaida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas clases Adelaida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas clases Adelaida.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,27 +130,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4eec8437a2636a72",
+  "active": "09970794673b39fa",
   "lastOpenFiles": [
+    "Notas clases Adelaida.md",
+    "Nota clases Maria Eugenia.md",
+    "Notas clases Nieves.md",
+    "POO VIDEOS/INTRODUCCIÓN POO.md",
+    "POO VIDEOS/INTRODUCCIÓN POO 2.md",
+    "POO VIDEOS/INTRODUCCIÓN POO 3.md",
+    "POO VIDEOS/INTRODUCCIÓN POO 4.md",
+    "POO VIDEOS/INTRODUCCIÓN POO 5.md",
+    "POO VIDEOS/INTRODUCCIÓN POO 6.md",
+    "OTROS/KALI/Notas.md",
+    "OTROS/KALI/Instalación kali custom.md",
+    "Android Studio/Anotaciones importantes.md",
+    "Android Studio/SHORT CUTS.md",
+    "Clases Jose/TODAS LAS ANOTACIONES SPRING.md",
+    "Clases Jose/Spring.md",
+    "Clases Jose/Spring Acceso a Datos.md",
     "EJercicios/Desarrollo de interfaces .Net API REST.md",
     "EJercicios",
     "Diseño de software/Clase 6.md",
     "Diseño de software/ANEXO/Pasted image 20240109201842.png",
     "Diseño de software/ANEXO/Pasted image 20231224152205.png",
-    "Clases Jose/TODAS LAS ANOTACIONES SPRING.md",
-    "Clases Jose/Spring.md",
-    "Clases Jose/Spring Acceso a Datos.md",
     "Clases Jose/Lombok.md",
-    "OTROS/KALI/Notas.md",
-    "OTROS/KALI/Instalación kali custom.md",
     "OTROS/KALI/ANEXO/Pasted image 20240102191524.png",
     "Concurrencia/Importancia de Syncronized (atomicidad y volatile modifier).md",
     "OTROS/KALI/fondo.png",
@@ -176,21 +179,10 @@
     "DOT NET/INTRODUCCIÓN.md",
     "GIT",
     "DOT NET/HTML NOTACION.md",
-    "Android Studio/Anotaciones importantes.md",
     "Diseño de software/clase 4.md",
-    "Nota clases Maria Eugenia.md",
     "Concurrencia/Hilos Anotaciones.md",
     "Concurrencia/Evita la excesiva sincronización.md",
-    "Clases Jose/PROGRAMACIÓN DE SERVICIOS.md",
-    "Clases Jose/ACCESO A DATOS.md",
-    "Diseño de software/Bibliografía.md",
-    "Diseño de software/Clase 2.md",
-    "Clases Jose/Pruebas.md",
-    "Diseño de software/Clase 1.md",
     "Diseño de software/ANEXO",
-    "Notas clases Nieves.md",
-    "Pasted image 20231201002559.png.md",
-    "Clases Jose/Bibliografía.md",
     "Concurrencia/ANEXO",
     "Concurrencia",
     "Clases Jose"

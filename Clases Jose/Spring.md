@@ -50,4 +50,5 @@ Archivo **banner.txt**, este permite poner un banner personalizado a Spring, se 
 
 
 **Recurso o endPoint:** es un elemento que satisface una petición http.
-
+### Buenas prácticas
+En el controller, es buena práctica que el atributo sea static y que se inyecte en el contructor, en vez de poner autowired.
